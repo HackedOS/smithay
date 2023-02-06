@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["RelativePointerManagerState","State of the relative pointer manager"],["RelativePointerUserData","User data of ZwpRelativePointerV1 object"]]};
